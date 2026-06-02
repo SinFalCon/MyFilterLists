@@ -1,3 +1,9 @@
+! Title: SinFalCon's General Custom Filters 
+! Description: Blocks annoying ads and nuisances
+! Version: 1.0
+! Expires: 1 day
+! Homepage: https://github.com/SinFalCon/MyFilterLists
+
 ! 2024-05-19 https://www.tbsnews.net
 www.tbsnews.net##[href^="https://news.google.com/publications/CAAqBwgKMIivlQsw2ZKrAw"]
 
