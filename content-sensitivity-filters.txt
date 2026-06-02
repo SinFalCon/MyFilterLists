@@ -1,5 +1,5 @@
 ! Title: SinFalCon's Content Sensitivity Filters 
-! Version: 1.0
+! Version: 1.1
 ! Expires: 1 day
 ! Homepage: https://github.com/SinFalCon/MyFilterLists
 
