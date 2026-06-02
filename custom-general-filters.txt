@@ -1,6 +1,5 @@
-! Title: SinFalCon's General Custom Filters 
-! Description: Blocks annoying ads and nuisances
-! Version: 1.0
+! Title: SinFalCon's Custom General Filters 
+! Version: 1.1
 ! Expires: 1 day
 ! Homepage: https://github.com/SinFalCon/MyFilterLists
 
