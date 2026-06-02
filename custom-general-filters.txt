@@ -1,0 +1,626 @@
+! 2024-05-19 https://www.tbsnews.net
+www.tbsnews.net##[href^="https://news.google.com/publications/CAAqBwgKMIivlQsw2ZKrAw"]
+
+! 2024-05-19 https://bonikbarta.net
+bonikbarta.net##.advertise_space2 > .row > .col-xs-12.col-sm-12.col-md-12.col-lg-12 > [href]
+||bonikbarta.net/uploads/ads/photo_40_2.gif?t=1716157294$image
+bonikbarta.net###sidebar2 > .right-sidebar > div.row > .col-xs-12.col-sm-12.col-md-12.col-lg-12
+bonikbarta.net###acceptOffer
+bonikbarta.net##.rib__dismiss
+
+! 2024-05-19 https://crex.live
+crex.live##.vdo-ai-ad
+crex.live##.live-top-vdoAi
+crex.live##.adsolut-ad
+crex.live##.live-top-adsolut
+crex.live###score-ad-comm
+
+! 2024-05-20 https://www.kalerkantho.com
+www.kalerkantho.com##.bg-light.bottom-sticky-ad > .justify-content-center.d-flex.mb-2.ads
+www.kalerkantho.com##.bi-chevron-down.bi
+www.kalerkantho.com##.sticky-ad-down
+
+! 2024-05-20 https://www.ittefaq.com.bd
+www.ittefaq.com.bd###ittefaq_Momegic_TPAD_300x250
+www.ittefaq.com.bd##.mobiledesktopAnchorContainer.aligncenter
+
+! 2024-05-21 https://bonikbarta.net
+||bonikbarta.net/uploads/ads/photo_1_2.gif?t=1716281933$image
+bonikbarta.net##.header-wrapper > .container > .row > .col-md-8
+
+! 2024-05-21 https://www.ittefaq.com.bd
+www.ittefaq.com.bd##.googleNewsLink
+www.ittefaq.com.bd##.mobile_share_pop_icon
+
+! 2024-05-21 https://samakal.com
+samakal.com###T4Tutorials_UP11_Close
+
+! 2024-05-22 https://www.anandabazar.com
+www.anandabazar.com##.m_bottom_sticky_mobile_ad_wrap.stkyadbox
+www.anandabazar.com###fivead
+www.anandabazar.com###twoad
+www.anandabazar.com##.mt-40.ad280.adbox
+www.anandabazar.com##div.container.mt-24 > .ad280.adbox
+www.anandabazar.com###ap_taboola_ad > .ad280.adbox
+www.anandabazar.com##div.ad280.adbox:nth-of-type(4)
+www.anandabazar.com##.m_native_dfp_1_ad_wrap
+www.anandabazar.com##div.mt-24.ad280.adbox:nth-of-type(6)
+||abp-dashboard.s3.us-east-2.amazonaws.com/assets/images/marketting-banners/May2024/80yhq8OAYYOYj7SwjMfW.jpg$image
+||abp-dashboard.s3.us-east-2.amazonaws.com/assets/images/marketting-banners/May2024/80yhq8OAYYOYj7SwjMfW.jpg$image
+www.anandabazar.com##.m_native_dfp_2_ad_wrap
+www.anandabazar.com###m_rectangle_5_middle_ad_wrap
+www.anandabazar.com##.lsesponsorbox
+
+! 2024-05-22 https://www.ittefaq.com.bd
+www.ittefaq.com.bd###Ittefaq_HP_R1
+
+! 2024-05-22 https://www.anandabazar.com
+www.anandabazar.com##.wapp
+www.anandabazar.com###a_save_article_side_btn
+www.anandabazar.com##.stickyshare
+
+! May 23, 2024 https://www.tbsnews.net
+||www.tbsnews.net/bangla/sites/all/themes/sloth/images/anchor-bottom.png$image
+www.tbsnews.net##.hide-for-print.text-center.position-fixed.strip-bg-white.footer-sticky
+
+! May 30, 2024 https://www.anandabazar.com
+www.anandabazar.com###temp_ad
+
+! May 30, 2024 https://www.dhakatribune.com
+www.dhakatribune.com##.footer-pop-up-ads-sec > .close
+
+! May 30, 2024 https://epaper.samakal.com
+epaper.samakal.com##.visible-xs.adsenseModal.modal-dialog > .modal-content > .modal-body
+epaper.samakal.com##.visible-xs.adsenseModal.modal-dialog > .modal-content
+epaper.samakal.com##.show.fade.modal
+epaper.samakal.com##.show.fade.modal-backdrop
+
+! Jun 4, 2024 https://www.anandabazar.com
+www.anandabazar.com##.stkyadbox
+www.anandabazar.com##div.mt-24.ad280.adbox:nth-of-type(9)
+www.anandabazar.com##.rdayadbox.ad280.adbox
+
+! Jun 6, 2024 https://www.fotmob.com
+www.fotmob.com##.e1h3ayaf2.css-c18nln-OddsRowCSS
+www.fotmob.com##.e15eilaa0.css-scz0l7-OddsDisclaimerContainer
+www.fotmob.com##.ek2c7651.css-1c58tzr-OddsHeaderCSS-applyMediumHover
+www.fotmob.com##.e4md6af1.css-1imwgqq-TopBannerWrapper
+www.fotmob.com##.ecgp4ae0.css-pi541p-Container
+
+! Jun 8, 2024 https://www.ittefaq.com.bd
+www.ittefaq.com.bd###Ittefaq_Inner_R3
+
+! Jun 9, 2024 https://samakal.com
+samakal.com##.show.fade.modal.DModalAddSec
+samakal.com##.show.fade.modal-backdrop
+
+! Jun 9, 2024 https://www.anandabazar.com
+www.anandabazar.com##.sticky-ad-js > span
+www.anandabazar.com##.URM-login-modal
+
+! Jun 11, 2024 https://mzamin.com
+mzamin.com##.my-5.pb-4.bg-light.justify-content-center.d-flex.p-2.row > .justify-content-center.d-flex.row > div
+mzamin.com##.text-end.fw-light.sticky-top
+mzamin.com##.my-5.pb-4.bg-light.justify-content-center.d-flex.p-2.row
+
+! Jun 14, 2024 https://www.dhakatribune.com
+www.dhakatribune.com##.mobile_share_pop_icon
+
+! Jun 15, 2024 https://www.nytimes.com
+www.nytimes.com##.bhKpRO.sc-3bf0f41d-0
+
+! Jun 20, 2024 https://www.kalerkantho.com
+www.kalerkantho.com##[href^="https://news.google.com/publications/CAAqBwgKMJOHpgsw-5G-Aw"]
+
+! Jun 22, 2024 https://bangla.bdnews24.com
+bangla.bdnews24.com##section.adHome-area:nth-of-type(1)
+
+! Jun 23, 2024 https://mzamin.com
+||mzamin.com/assets/images/gnews.webp$image
+
+! Jun 27, 2024 https://crex.live
+crex.live##.live-top-incrementx
+
+! Jun 29, 2024 https://samakal.com
+samakal.com##p:nth-of-type(2)
+
+! Jun 30, 2024 https://www.fotmob.com
+www.fotmob.com##.e1dvey8b0.css-13gapui-LiveOddsCSS
+www.fotmob.com##.e5eowmr0.css-scz0l7-OddsDisclaimerContainer
+www.fotmob.com##.ebh5lc10.css-1yfoddb-TopBannerWrapper
+
+! Jul 2, 2024 https://samakal.com
+samakal.com##[href="https://whatsapp.com/channel/0029VaQQR53KLaHr01KVgG3X"] > .img-fluid
+
+! Jul 4, 2024 https://mzamin.com
+mzamin.com##div.my-3.text-center.row:nth-of-type(4)
+
+! Jul 6, 2024 https://mzamin.com
+mzamin.com##.col > .my-3.justify-content-center.d-sm-none.d-flex.row
+
+! Jul 7, 2024 https://www.fotmob.com
+www.fotmob.com##.e161hdoa0.css-1auilfe-ResolvedOddsWrapper
+www.fotmob.com##div.e1mlfzv61.css-1394cz5-CardCSS:nth-of-type(4)
+
+! Jul 8, 2024 https://mzamin.com
+mzamin.com###sticky-banner-mob > div.d-block.d-sm-none
+mzamin.com##.rounded.w-75.text-white.translate-middle-x.start-50.position-fixed
+
+! Jul 11, 2024 https://chatgpt.com
+chatgpt.com##.bottom-5.bg-token-main-surface-primary.juice\:translate-x-1\/2.right-1\/2.border-token-border-light.text-token-text-secondary.border.bg-clip-padding.rounded-full.z-10.absolute.cursor-pointer
+
+! Jul 18, 2024 https://www.theguardian.com
+www.theguardian.com##.dcr-k7prbm
+
+! Jul 24, 2024 https://chatgpt.com
+chatgpt.com##.bottom-5.bg-token-main-surface-primary.translate-x-1\/2.right-1\/2.border-token-border-light.text-token-text-secondary.border.bg-clip-padding.rounded-full.z-10.absolute.cursor-pointer
+
+! Jul 25, 2024 https://epaper.thedailystar.net
+epaper.thedailystar.net###gdpr
+
+! Jul 29, 2024 https://www.examveda.com
+www.examveda.com##article.center.question-type-normal.single-question.question:nth-of-type(3)
+www.examveda.com##article.center.question-type-normal.single-question.question:nth-of-type(7)
+www.examveda.com##article.question-type-normal.single-question.question:nth-of-type(14)
+
+! Aug 8, 2024 https://www.flightradar24.com
+www.flightradar24.com##.justify-center.items-center.min-h-\[3\.125rem\].flex.my-2
+
+! Aug 15, 2024 https://www.jaijaidinbd.com
+www.jaijaidinbd.com##.homeTop > .text-center.px-2.homeTop
+www.jaijaidinbd.com##.px-2.body_news_block > .text-center.my-2 > .futureads
+www.jaijaidinbd.com##div.text-center.mt-3 > .futureads
+www.jaijaidinbd.com##div.px-2.homeTop:nth-of-type(8)
+www.jaijaidinbd.com##div.px-2.homeTop:nth-of-type(9)
+
+! Aug 15, 2024 https://www.fotmob.com
+www.fotmob.com##div.e1mlfzv61.css-1394cz5-CardCSS:nth-of-type(3)
+
+! Aug 24, 2024 https://www.goal.com
+www.goal.com##.bc-placeholder.betsense-widget_betsense-widget__5Vmo8
+
+! Aug 25, 2024 https://crex.live
+crex.live##.odd-live-container.odds-container.odds-session
+
+! Aug 27, 2024 https://bangla.bdnews24.com
+bangla.bdnews24.com##.d-block.d-lg-none.justify-content-center.d-flex.col-lg-12
+
+! Aug 29, 2024 https://www.nytimes.com
+www.nytimes.com##.MobileNav_MobileSubscribeDisplay__7ugeg
+
+! Sep 6, 2024 https://www.banglatribune.com
+www.banglatribune.com##.aligncenter.bt_home_300x250_2_mobile
+www.banglatribune.com###wrapper_9901
+www.banglatribune.com##.advertisement.header_ad_block
+www.banglatribune.com##.btGoogleNews
+www.banglatribune.com##.h90m100.pt10.pb10.topLeaderBoardAdHome.aligncenter
+www.banglatribune.com##.social_share_holder
+
+! Sep 11, 2024 https://jamuna.tv
+jamuna.tv##div.row:nth-of-type(1)
+
+! Sep 14, 2024 https://www.timeanddate.com
+www.timeanddate.com##.header__wrapper
+
+! Sep 15, 2024 https://www.banglatribune.com
+www.banglatribune.com###div_11061 > .inner
+
+! Sep 17, 2024 https://www.prothomalo.com
+www.prothomalo.com##._7zj9B > div > div > div > .Mn1dD
+
+! Sep 18, 2024 https://www.prothomalo.com
+www.prothomalo.com##.oHRqW
+
+! Sep 18, 2024 https://www.jugantor.com
+www.jugantor.com##.photoOverlayAdDiv
+
+! Sep 18, 2024 https://dailyinqilab.com
+dailyinqilab.com##div.container > .mb-3.justify-content-center.d-flex
+dailyinqilab.com##.text-center.my-2
+
+! Sep 19, 2024 https://www.thedailystar.net
+www.thedailystar.net##div.text-center.mb-20:nth-of-type(3)
+
+! Sep 26, 2024 https://samakal.com
+samakal.com##.DContentAdd
+
+! Oct 6, 2024 https://www2.livefpl.net
+www2.livefpl.net##rect:nth-of-type(1)
+www2.livefpl.net##body > div
+
+! Oct 11, 2024 https://www.livefpl.net
+www.livefpl.net##body > div > svg
+
+! Dec 9, 2024 https://www.banglatribune.com
+www.banglatribune.com###widget_10690 > .widget.widget_text > .aunqur.widget_text_inner > .content
+
+! Dec 26, 2024 https://www.fotmob.com
+www.fotmob.com##.ec3fv0v0.css-1hmvktq-SuperliveCSS
+
+! Jan 27, 2025 https://bangla.dhakatribune.com
+bangla.dhakatribune.com###WaltonBat
+bangla.dhakatribune.com##.firebase-in-bell__icon
+bangla.dhakatribune.com##.mobile_share_pop_icon
+
+! Feb 3, 2025 https://www.ittefaq.com.bd
+www.ittefaq.com.bd##.w100.pb10.pt10.ittefaq_MomegicTF_1.aligncenter
+
+! Mar 11, 2025 https://bangla.bdnews24.com
+bangla.bdnews24.com##div:nth-of-type(11)
+
+! Mar 19, 2025 https://bangla.bdnews24.com
+bangla.bdnews24.com##div:nth-of-type(12)
+
+! Mar 25, 2025 https://medex.com.bd
+medex.com.bd##.active.c-overlay-container
+medex.com.bd##body:style(overflow: auto !important;)
+
+! Mar 28, 2025 https://mzamin.com
+mzamin.com##.text-center.my-5.d-block.d-sm-none
+
+! Mar 29, 2025 https://www.ittefaq.com.bd
+www.ittefaq.com.bd###widget_1036 > .widget.widget_text > .aunqur.widget_text_inner > .content
+
+! Mar 31, 2025 https://bangla.bdnews24.com
+bangla.bdnews24.com##div:nth-of-type(13)
+
+! Apr 2, 2025 https://freemagazines.top
+freemagazines.top###IXqSdsYegTNpR
+
+! Apr 12, 2025 https://www.whoscored.com
+www.whoscored.com##.BookmakerDropdown-module_bookmakerButton__qw-tI
+www.whoscored.com##.MainNavigation-module_telegram__qVSO9
+www.whoscored.com###matchslider-container
+www.whoscored.com##.Tournaments-module_oneXTwoContainer__rdqir
+www.whoscored.com##div.sticky-unit-wrapper:nth-of-type(10)
+www.whoscored.com##.Match-module_odds__XNvVI
+www.whoscored.com##.RefreshCountdown-module_refreshCountdown__hKJX6
+
+! Apr 13, 2025 https://www.whoscored.com
+www.whoscored.com##.LiveScores-module_logoAndOddsToggle__Lk7jW
+
+! Apr 28, 2025 https://www.theguardian.com
+www.theguardian.com##.dcr-chskof
+
+! Apr 28, 2025 https://crex.com
+crex.com###score-ad-comm
+
+! Apr 30, 2025 https://www.theguardian.com
+www.theguardian.com##.dcr-1s8spa1 > div > gu-island
+
+! Apr 30, 2025 https://crex.com
+crex.com##.live-top-vdoAi
+
+! Apr 30, 2025 https://epaper.prothomalo.com
+epaper.prothomalo.com###previousArticle
+epaper.prothomalo.com##.next_article
+
+! Apr 30, 2025 https://epaper.thedailystar.net
+epaper.thedailystar.net###previousArticle
+
+! May 2, 2025 https://www.banglatribune.com
+www.banglatribune.com##.aligncenter.roundicons
+
+! May 2, 2025 https://www.prothomalo.com
+www.prothomalo.com##._0U6Mc._0avoF
+
+! May 3, 2025 https://www.ittefaq.com.bd
+www.ittefaq.com.bd###Ittefaq_inner_after_hero
+www.ittefaq.com.bd##.w100.pb10.pt10.aligncenter.Ittefaq_inner_after_hero
+
+! May 3, 2025 https://samakal.com
+samakal.com##.col-lg-9 > div.row > .d-flex.col-lg-4
+
+! May 6, 2025 https://www.nationalgeographic.com
+www.nationalgeographic.com##.PCVZs.tQHio.OGgqj.yJYJo.uAyYK.wBpop.feniZ.hQfuy.FlDNH.ZgZTu.CHWlW.iKqXF.Kiog
+
+! May 7, 2025 https://www.theguardian.com
+www.theguardian.com##section.dcr-1xdhyk6 > .dcr-1ykr3rf
+
+! May 11, 2025 https://www.prothomalo.com
+www.prothomalo.com##._5NJPB
+www.prothomalo.com##div._0Zwdj._4Pk8L:nth-of-type(3)
+www.prothomalo.com##.Ovtk4.print-none.floating-metadata-icons
+
+! May 14, 2025 https://www.theguardian.com
+www.theguardian.com###maincontent > gu-island
+
+! May 19, 2025 https://epaper.prothomalo.com
+epaper.prothomalo.com##.ads_area_300X250
+epaper.prothomalo.com##.ads_area_300x250
+
+! May 19, 2025 https://epaper.thedailystar.net
+epaper.thedailystar.net##.next_article
+
+! Jun 10, 2025 https://www.whoscored.com
+www.whoscored.com##.Match-module_odds_noDivider__yzbRk
+
+! Jun 14, 2025 https://www.nationalgeographic.com
+www.nationalgeographic.com##.NavBar__Subscribe__Container
+
+! Jun 14, 2025 https://www.banglatribune.com
+www.banglatribune.com##.widget_wrap.widget_color_red_grad.mobile_indo_pak_war
+
+! Jun 15, 2025 https://bangla.bdnews24.com
+bangla.bdnews24.com##div:nth-of-type(9)
+
+! Jun 24, 2025 https://iran.liveuamap.com
+iran.liveuamap.com##.footer-news.phones
+
+! Jul 6, 2025 https://www.jugantor.com
+www.jugantor.com##div.marginB20.hidden-print:nth-of-type(1)
+
+! Jul 8, 2025 https://www.banglatribune.com
+www.banglatribune.com##svg
+
+! Jul 8, 2025 https://www.prothomalo.com
+www.prothomalo.com##.bvT29
+www.prothomalo.com##.TjeAm
+www.prothomalo.com##.U15rh.adsBox
+
+! Jul 9, 2025 https://www.prothomalo.com
+www.prothomalo.com##._24WTx.time-social-share-wrapper > .UmzUb.meta-data-icons
+
+! Aug 1, 2025 https://www.jugantor.com
+www.jugantor.com##.paddingT20.visible-xs.bgWHite > .container > .row > div.paddingLR20.col-md-12.col-sm-12 > div.marginB20.hidden-print > .shadow1.borderRadius5.marginB0.table-bordered.table > tbody
+
+epaper.samakal.com##body:style(overflow: auto !important;)
+
+! Aug 7, 2025 https://bangla.bdnews24.com
+bangla.bdnews24.com##.ad-scroll.ignore-print.floating-ad-scroll
+
+! Aug 16, 2025 https://www.whoscored.com
+www.whoscored.com##oc-ai-chatbot-widget
+
+! Aug 17, 2025 https://www.washingtonpost.com
+www.washingtonpost.com##.wpds-c-eUUIRs
+
+! Sep 5, 2025 https://www.wsj.com
+www.wsj.com##.e1vo8gfc0.css-1pichsv-LoginButtonsWrapper-LoginButtonsWrapper-LoginButtonsWrapper
+www.wsj.com##.css-1i8hxya-MarketDataStripWrapper.e1anx7cs3
+www.wsj.com##.css-fs8vb5
+www.wsj.com##.ev6fn600.css-14zqvv1-LoginButtonsWrapper-LoginButtonsWrapper-LoginButtonsWrapper
+
+sh.reddit.com,www.reddit.com##shreddit-post:has-text(/\bMusk\b|\bElon\b|Elon Musk|\bDOGE\b|\bTrump\b|Donald Trump|\bMAGA\b|\bGOP\b|\bVance\b|JD Vance|\bRepublicans?\b|\bTesla\b|Fox News|\bCybertruck\b|\bKanye\b|Ethan Klein|\bIsrael\b|\bIsraeli\b|\bICE\b|\bKirk\b|\bIsraelis\b|Charlie Kirk|Karoline Leavitt|Mike Johnson|Kristi Noem|Mike Lee|Alex Jones|Ben Shapiro|Pam Bondi|Stephen Miller|Kash Patel|Nicki Minaj|Bill Maher|Nancy Mace|\bNetanyahu\b|Melania Trump|\bMelania\b|\bIDF\b|\bHegseth\b|\bRFK\b|\bMTG\b|\bTPUSA\b|Turning Point USA|Lindsey Graham|Vivek Ramaswamy|Lamine Yamal|\bYamal\b|Amy Schumer|Kid Rock|Ted Cruz/i):not(.nd\:pb-2xl)
+
+www.reddit.com##shreddit-comment[author="AutoModerator"]
+www.reddit.com##shreddit-comment[author="pccmodbot"]
+www.reddit.com##shreddit-comment[author="qualityvote2"]
+www.reddit.com##shreddit-comment[author="rfauxmoi"]
+www.reddit.com##shreddit-comment[author="flairassistant"]
+www.reddit.com##shreddit-comment[author="PCMRBot"]
+www.reddit.com##shreddit-comment[author="trendingtattler"]
+www.reddit.com##shreddit-comment[author="Dad_B0T"]
+www.reddit.com##shreddit-comment[author="post-explainer"]
+
+reddit.com##body:style(font-weight:500 !important)
+
+reddit.com##strong:style(font-weight:800 !important)
+
+reddit.com##[post-type="video"] [slot="recommendation-overlay"]
+
+www.reddit.com##.author-name-meta .truncate:style(color: #999 !important)
+
+www.reddit.com##shreddit-post-text-body > .text-neutral-content:style(color: #F2F2F2 !important)
+
+www.reddit.com##[id*="-comment-rtjson-content"]:style(color: #F2F2F2 !important)
+
+www.reddit.com##subreddit-header-card
+
+www.reddit.com##.media-element, .media-container, img:style(background-color: #000 !important)
+
+www.reddit.com###answers-nav-button > .justify-center.items-center.flex > .flex > svg
+
+www.reddit.com##.\@container
+
+www.reddit.com###pdp-right-rail-topics > div > .flex-col.flex
+www.reddit.com###right-sidebar-contents > .text-neutral-content-weak.px-md
+
+reddit.com##:matches-path(/media) img:others()
+
+reddit.com##:matches-path(/media) :root:style(background-color: black !important;)
+
+preview.redd.it##.theme-beta.fixed
+
+i.redd.it##.theme-beta.fixed
+
+i.redd.it##zoomable-img:style(top: 0 !important; padding: 0 !important; height: unset !important;)
+
+i.redd.it##post-bottom-bar
+
+preview.redd.it##zoomable-img:style(top: 0 !important; padding: 0 !important; height: unset !important;)
+
+preview.redd.it##post-bottom-bar
+
+reddit.com##zoomable-img:style(top: 0 !important; padding: 0 !important; height: unset !important;)
+
+reddit.com##post-bottom-bar
+
+preview.redd.it##.border-neutral-border-weak.border-solid
+
+www.reddit.com##.pointer-events-auto.l\:px-lg.px-md.bg-neutral-background.v2
+
+preview.reddit.com##.border-neutral-border-weak.border-solid.border-r-0.border-l-0.border-t-0.border-b-sm.pointer-events-auto.m\:px-lg.px-md.bg-neutral-background.v2
+
+www.reddit.com##.relative.justify-end.flex-1.items-center.flex > .block.nd\:visible
+
+www.reddit.com##.inline-flex.button.justify-center.items-center.icon.button-plain.px-\[var\(--rem8\)\].button-medium.min-w-\[40px\]
+
+reddit.com###reddit-trending-searches-partial-container
+
+www.reddit.com###empty-comments-banner
+
+www.reddit.com###low-comments-banner
+
+||emoji.redditmedia.com/i7wzsqk6cjuf1_t5_5rj68d/popculturechat$image
+
+! Sep 20, 2025 https://www.dhakatribune.com
+
+www.dhakatribune.com##.firebase-in-bell__icon
+
+! Sep 26, 2025 https://epaper.thedailystar.net
+epaper.thedailystar.net##.social_share_box_Container
+
+epaper.thedailystar.net##p:style(font-family: "Georgia" !important;)
+
+epaper.thedailystar.net##div:style(font-family: "Georgia" !important;)
+
+! Nov 8, 2025 https://www.examveda.com
+www.examveda.com##.whatsapp-wrapper
+
+! Nov 18, 2025 https://www.whoscored.com
+www.whoscored.com##div.col12-xs-12.col12-s-12.col12-m-12.col12-lg-12:nth-of-type(1)
+www.whoscored.com##.MainNavigation-module_centerMobileButton__t1Mzv
+www.whoscored.com##.Match-module_odds_comments__ZllyZ
+
+! Nov 30, 2025 https://www.reuters.com
+www.reuters.com##.market-bar-module__body__PzNeh
+
+! Dec 1, 2025 https://time.com
+time.com##.border-red-500.border.rounded-lg.-translate-x-1\/2.w-full.z-\[2147483646\].left-1\/2.fixed
+
+! Dec 17, 2025 https://sattacademy.com
+sattacademy.com###satt_dynamic_modal > .mw-600px.modal-dialog-centered.modal-dialog > .modal-content
+sattacademy.com###satt_dynamic_modal
+
+! Dec 20, 2025 https://sattacademy.com
+sattacademy.com##.show.fade.modal-backdrop
+sattacademy.com##body:style(overflow: auto !important;)
+
+! Jan 9, 2026 https://www.washingtonpost.com
+www.washingtonpost.com##.wpds-c-SnBxc
+
+! Jan 14, 2026 https://www.dailyamardesh.com
+www.dailyamardesh.com##.rounded-tl-xl.py-1.px-1.right-0.-top-\[30px\].absolute.bg-\[\#f3f3f3\]
+www.dailyamardesh.com##.items-end.justify-center.flex.container
+www.dailyamardesh.com##.block-full_richtext > div > div.justify-center.flex
+www.dailyamardesh.com##.justify-center.flex.container.lg\:mb-5.lg\:mt-10.mt-12
+www.dailyamardesh.com##.gap-y-4.justify-center.items-center.flex-col.flex.mb-6
+www.dailyamardesh.com##.block.mb-10
+
+! Jan 14, 2026 https://www.thedailystar.net
+www.thedailystar.net##div.justify-center.flex.hide-for-print.mb-5:nth-of-type(2)
+
+! Jan 14, 2026 https://www.dailyamardesh.com
+www.dailyamardesh.com##.lg\:order-3.order-2.lg\:gap-9.gap-4.flex-col.flex > .justify-center.flex
+
+! Jan 15, 2026 https://www.fotmob.com
+www.fotmob.com##.e21ul001.css-1jfraha-SuperliveHeader
+www.fotmob.com##.e21ul000.css-1hmvktq-SuperliveCSS
+www.fotmob.com##.px-4.items-center.flex-col.w-full.flex.\@container\/short-commentary
+
+! Jan 16, 2026 https://thedailycampus.com
+thedailycampus.com##.rounded.border.p-3.mt-4.text-center.tdc_google_news
+
+! Jan 29, 2026 https://www.fotmob.com
+www.fotmob.com##.eg2e3kj0.css-13gapui-LiveOddsCSS
+
+! Jan 29, 2026 https://time.com
+time.com##.z-\[10001\].lg\:right-20.rounded-lg.w-full.right-2.fixed
+
+! Feb 10, 2026 https://m.facebook.com
+m.facebook.com##.no-hscroller.hscroller.m > div.m > .nb.m > .m
+
+! Feb 12, 2026 https://m.facebook.com
+m.facebook.com##.no-hscroller.hscroller.m > div.bg-s19.m > div.m
+m.facebook.com##.no-hscroller.hscroller.m > div.bg-s21.m > div.m
+m.facebook.com##.no-hscroller.hscroller.m > div.bg-s23.m > div.m
+
+! Feb 13, 2026 https://m.facebook.com
+m.facebook.com##.no-hscroller.hscroller.m > div.bg-s20.m > div.m
+m.facebook.com##.no-hscroller.hscroller.m > div.bg-s18.m > div.m
+m.facebook.com##.no-hscroller.hscroller.m > div.bg-s29.m > div.m
+
+! Feb 14, 2026 https://m.facebook.com
+m.facebook.com##.bg-s28.m > .bg-s22.m
+
+! Feb 14, 2026 https://www.facebook.com
+www.facebook.com##.no-hscroller.hscroller.m > div.bg-s3.m > div.m
+
+! Feb 14, 2026 https://m.facebook.com
+m.facebook.com##.bg-s27.m > .bg-s22.m
+
+! Feb 15, 2026 https://m.facebook.com
+m.facebook.com##.bg-s29.m > .bg-s24.m
+
+! Feb 18, 2026 https://www.fotmob.com
+www.fotmob.com##.e9as4cy0.css-1hmvktq-SuperliveCSS
+
+! Feb 19, 2026 https://www.reddit.com
+www.reddit.com##.search-hero-small
+
+! Feb 27, 2026 https://www.reddit.com
+www.reddit.com##.my-2xs.py-2xs.px-md.flex-col.flex.nd\:visible
+
+! Mar 2, 2026 https://m.facebook.com
+m.facebook.com##.bg-s31.m > .bg-s3.m
+
+! Mar 2, 2026 https://www.reddit.com
+www.reddit.com##.bg-neutral-background.border-transparent.border-solid.border-t.-mt-\[1px\].pb-2xs.px-md.relative.prominent-search > .relative
+
+! Mar 13, 2026 https://crex.com
+crex.com##.banner-wrap
+||crex.com/assets/img/backfill-banner.png$image
+crex.com##.backfill
+
+! Mar 14, 2026 https://www.reddit.com
+www.reddit.com##.nd\:visible > faceplate-expandable-section-helper > .rounded-none.border-none.bg-transparent.m-0.p-0
+
+! Mar 17, 2026 https://www.reddit.com
+www.reddit.com##.border-neutral-border-weak.border-y-sm.border-x-0.border-solid.mt-xs.flex-col.flex
+
+! Mar 19, 2026 https://dorabash.in
+dorabash.in##.mysticky-welcomebar-fixed-wrap
+
+! Mar 21, 2026 https://www.jugantor.com
+www.jugantor.com##.visible-xs.bgWHite > .marginT15.container
+
+! Mar 28, 2026 https://crex.com
+crex.com##.ad-wrapper-box
+
+! Apr 3, 2026 https://www.washingtonpost.com
+www.washingtonpost.com##.wpds-c-kSOqLF-ijwAmXJ-css.wpds-c-kSOqLF-ejCoEP-icon-left.wpds-c-kSOqLF-eHdizY-density-default.wpds-c-kSOqLF-eFpUDx-variant-secondary.wpds-c-kSOqLF
+
+! Apr 4, 2026 https://www.nytimes.com
+www.nytimes.com##.interactive-body.css-17ih8de
+
+! Apr 4, 2026 https://m.facebook.com
+m.facebook.com##.bg-s26.m > .bg-s17.m
+
+! Apr 8, 2026 https://www.fotmob.com
+www.fotmob.com##div.e1m5w55z1.css-1394cz5-CardCSS:nth-of-type(4)
+www.fotmob.com##.eaj2ihl0.css-1hmvktq-SuperliveCSS
+
+! Apr 13, 2026 https://www.reddit.com
+www.reddit.com##.mb-0.pt-md.mt-md.border-x-0.border-neutral-border-weak.border-solid.border-b-0.border-t-sm.flex-col.flex
+
+! Apr 14, 2026 https://www.wsj.com
+www.wsj.com##.css-gg2vyo-MarketDataStripWrapper.e1anx7cs3
+
+! Apr 16, 2026 https://www.reddit.com
+www.reddit.com###configured-xpromo-blocking_xpromo_nsfw_blocking
+
+! Apr 21, 2026 https://www.reddit.com
+www.reddit.com##reddit-recent-pages
+
+! Apr 23, 2026 https://www.theguardian.com
+www.theguardian.com##.dcr-1tnbsjt
+
+! May 19, 2026 https://www.fotmob.com
+www.fotmob.com##.e175icw80.css-13gapui-LiveOddsCSS
+
+! May 27, 2026 https://www.prothomalo.com
+www.prothomalo.com##._0U6Mc.S3wNv
+
+! May 28, 2026 https://m.facebook.com
+m.facebook.com##.bg-s25.m
+
+! May 29, 2026 https://www.ft.com
+www.ft.com##.n-layout__header-before > .js-markets-data.markets-data-wrapper
+
+! May 30, 2026 https://time.com
+time.com##.translate-y-\[calc\(var\(--header-page-extrusion\)\*-1\)\].w-full.z-\[100\].sticky
+time.com##.items-center.w-max.inline-flex.relative
+
+! Jun 2, 2026 https://time.com
+time.com##.top-\[calc\(var\(--header-page-extrusion\)\*-1\)\].w-full.z-\[100\].sticky
