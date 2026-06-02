@@ -1,5 +1,4 @@
 ! Title: SinFalCon's Content Sensitivity Filters 
-! Description: Restores clear visibility of Reddit content hidden by sensitivity blur filters.
 ! Version: 1.0
 ! Expires: 1 day
 ! Homepage: https://github.com/SinFalCon/MyFilterLists
