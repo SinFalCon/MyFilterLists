@@ -1,5 +1,5 @@
 ! Title: SinFalCon's Custom General Filters 
-! Version: 1.0.2
+! Version: 1.0.3
 ! Updated: June 23, 2026
 ! Expires: 1 day
 ! Homepage: https://github.com/SinFalCon/MyFilterLists
@@ -630,3 +630,67 @@ time.com##.items-center.w-max.inline-flex.relative
 
 ! Jun 2, 2026 https://time.com
 time.com##.top-\[calc\(var\(--header-page-extrusion\)\*-1\)\].w-full.z-\[100\].sticky
+
+! Hide all videos with the shorts indicator
+
+m.youtube.com##ytm-thumbnail-overlay-time-status-renderer[data-style="SHORTS"]:upward(ytm-video-with-context-renderer)
+
+! Remove generic shorts shelf except on history page
+
+m.youtube.com##:matches-path(/^(?!\/feed\/history).*$/)ytm-reel-shelf-renderer
+
+! Hide shorts button in the bottom navigation bar
+
+m.youtube.com##ytm-pivot-bar-item-renderer:has(.pivot-shorts)
+
+! Hide shorts sections except on history page
+
+m.youtube.com##:matches-path(/^(?!\/feed\/history).*$/)ytm-shorts-lockup-view-model:upward(ytm-rich-section-renderer)
+
+! Hide shorts filter/category on top of homepage and search pages
+
+www.youtube.com##ytm-chip-cloud-chip-renderer:has([aria-label="Shorts"])
+
+! Hide shorts sections on search page
+
+m.youtube.com##ytm-shorts-lockup-view-model:upward(grid-shelf-view-model)
+
+! Jun 5, 2026 https://m.youtube.com
+m.youtube.com##.rich-grid-sticky-header.rich-grid-renderer-header
+
+! Jun 9, 2026 https://www.reddit.com
+www.reddit.com##.bg-neutral-background.border-transparent.border-solid.border-t-sm.-mt-px.pb-2xs.px-md.relative.prominent-search
+
+! Jun 9, 2026 https://crex.com
+crex.com###topDiv > div:nth-of-type(3) > div:nth-of-type(2) > div
+crex.com###topDiv > div:nth-of-type(1) > div:nth-of-type(2) > div
+crex.com###topDiv > div:nth-of-type(2) > div:nth-of-type(2)
+crex.com###topDiv > div:nth-of-type(4) > div:nth-of-type(2)
+crex.com##div:nth-of-type(13) > div:nth-of-type(2)
+
+! Jun 18, 2026 https://www.reddit.com
+www.reddit.com##.py-sm.bg-shreddit-content-background.bottom-0.fixed.bg-neutral-background.max-w-\[756px\]
+
+! Remove World Cup 2026 Banners
+
+! Jun 20, 2026 https://www.prothomalo.com
+www.prothomalo.com##.bottom-space.E88X-
+
+! Jun 20, 2026 https://www.jugantor.com
+www.jugantor.com##.visible-xs.bgWHite > .paddingT10
+
+! Jun 20, 2026 https://samakal.com
+samakal.com##div.container > .container
+
+! Jun 20, 2026 https://www.ittefaq.com.bd
+www.ittefaq.com.bd###wrapper_907
+
+! Jun 23, 2026 https://www.reddit.com
+www.reddit.com###feed-post-credit-bar-t3_1ucxgvk > .shrink-0.overflow-hidden.relative > .\32 xs.gap.items-center.flex > rpl-dialog-trigger > .ms-xs.w-\[1\.25rem\].h-\[1\.25rem\].cursor-pointer.hover\:bg-neutral-background-hover.bg-transparent.rounded-1.border-none.m-0.p-0.justify-center.items-center.flex
+
+! Jun 23, 2026 https://www.fotmob.com
+www.fotmob.com##.eaj666s0.css-xfnya-PollWithOddsCSS
+
+! Jun 23, 2026 https://www.nytimes.com
+
+www.nytimes.com##.e9696a98.bfed6852.a2a89c28
