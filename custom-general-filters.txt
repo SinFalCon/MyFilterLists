@@ -387,8 +387,6 @@ www.wsj.com##.css-1i8hxya-MarketDataStripWrapper.e1anx7cs3
 www.wsj.com##.css-fs8vb5
 www.wsj.com##.ev6fn600.css-14zqvv1-LoginButtonsWrapper-LoginButtonsWrapper-LoginButtonsWrapper
 
-sh.reddit.com,www.reddit.com##shreddit-post:has-text(/\bMusk\b|\bElon\b|Elon Musk|\bDOGE\b|\bTrump\b|Donald Trump|\bMAGA\b|\bGOP\b|\bVance\b|JD Vance|\bRepublicans?\b|\bTesla\b|Fox News|\bCybertruck\b|\bKanye\b|Ethan Klein|\bIsrael\b|\bIsraeli\b|\bICE\b|\bKirk\b|\bIsraelis\b|Charlie Kirk|Karoline Leavitt|Mike Johnson|Kristi Noem|Mike Lee|Alex Jones|Ben Shapiro|Pam Bondi|Stephen Miller|Kash Patel|Nicki Minaj|Bill Maher|Nancy Mace|\bNetanyahu\b|Melania Trump|\bMelania\b|\bIDF\b|\bHegseth\b|\bRFK\b|\bMTG\b|\bTPUSA\b|Turning Point USA|Lindsey Graham|Vivek Ramaswamy|Lamine Yamal|\bYamal\b|Amy Schumer|Kid Rock|Ted Cruz/i):not(.nd\:pb-2xl)
-
 www.reddit.com##shreddit-comment[author="AutoModerator"]
 www.reddit.com##shreddit-comment[author="pccmodbot"]
 www.reddit.com##shreddit-comment[author="qualityvote2"]
