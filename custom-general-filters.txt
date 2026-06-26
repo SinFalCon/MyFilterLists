@@ -1,6 +1,6 @@
 ! Title: SinFalCon's Custom General Filters 
-! Version: 1.0.3
-! Updated: June 23, 2026
+! Version: 1.0.4
+! Updated: June 26, 2026
 ! Expires: 1 day
 ! Homepage: https://github.com/SinFalCon/MyFilterLists
 
@@ -387,6 +387,8 @@ www.wsj.com##.css-1i8hxya-MarketDataStripWrapper.e1anx7cs3
 www.wsj.com##.css-fs8vb5
 www.wsj.com##.ev6fn600.css-14zqvv1-LoginButtonsWrapper-LoginButtonsWrapper-LoginButtonsWrapper
 
+sh.reddit.com,www.reddit.com##shreddit-post:has-text(/\bMusk\b|\bElon\b|Elon Musk|\bDOGE\b|\bTrump\b|Donald Trump|\bMAGA\b|\bGOP\b|\bVance\b|JD Vance|\bRepublicans?\b|\bTesla\b|Fox News|\bCybertruck\b|\bKanye\b|Ethan Klein|\bIsrael\b|\bIsraeli\b|\bICE\b|\bKirk\b|\bIsraelis\b|Charlie Kirk|Karoline Leavitt|Mike Johnson|Kristi Noem|Mike Lee|Alex Jones|Ben Shapiro|Pam Bondi|Stephen Miller|Kash Patel|Nicki Minaj|Bill Maher|Nancy Mace|\bNetanyahu\b|Melania Trump|\bMelania\b|\bIDF\b|\bHegseth\b|\bRFK\b|\bMTG\b|\bTPUSA\b|Turning Point USA|Lindsey Graham|Vivek Ramaswamy|Lamine Yamal|\bYamal\b|Amy Schumer|Kid Rock|Ted Cruz/i):not(.nd\:pb-2xl)
+
 www.reddit.com##shreddit-comment[author="AutoModerator"]
 www.reddit.com##shreddit-comment[author="pccmodbot"]
 www.reddit.com##shreddit-comment[author="qualityvote2"]
@@ -396,6 +398,7 @@ www.reddit.com##shreddit-comment[author="PCMRBot"]
 www.reddit.com##shreddit-comment[author="trendingtattler"]
 www.reddit.com##shreddit-comment[author="Dad_B0T"]
 www.reddit.com##shreddit-comment[author="post-explainer"]
+www.reddit.com##shreddit-comment[author="WithoutReason1729"]
 
 reddit.com##body:style(font-weight:500 !important)
 
@@ -455,8 +458,6 @@ reddit.com###reddit-trending-searches-partial-container
 www.reddit.com###empty-comments-banner
 
 www.reddit.com###low-comments-banner
-
-||emoji.redditmedia.com/i7wzsqk6cjuf1_t5_5rj68d/popculturechat$image
 
 ! Sep 20, 2025 https://www.dhakatribune.com
 
@@ -522,31 +523,6 @@ www.fotmob.com##.eg2e3kj0.css-13gapui-LiveOddsCSS
 ! Jan 29, 2026 https://time.com
 time.com##.z-\[10001\].lg\:right-20.rounded-lg.w-full.right-2.fixed
 
-! Feb 10, 2026 https://m.facebook.com
-m.facebook.com##.no-hscroller.hscroller.m > div.m > .nb.m > .m
-
-! Feb 12, 2026 https://m.facebook.com
-m.facebook.com##.no-hscroller.hscroller.m > div.bg-s19.m > div.m
-m.facebook.com##.no-hscroller.hscroller.m > div.bg-s21.m > div.m
-m.facebook.com##.no-hscroller.hscroller.m > div.bg-s23.m > div.m
-
-! Feb 13, 2026 https://m.facebook.com
-m.facebook.com##.no-hscroller.hscroller.m > div.bg-s20.m > div.m
-m.facebook.com##.no-hscroller.hscroller.m > div.bg-s18.m > div.m
-m.facebook.com##.no-hscroller.hscroller.m > div.bg-s29.m > div.m
-
-! Feb 14, 2026 https://m.facebook.com
-m.facebook.com##.bg-s28.m > .bg-s22.m
-
-! Feb 14, 2026 https://www.facebook.com
-www.facebook.com##.no-hscroller.hscroller.m > div.bg-s3.m > div.m
-
-! Feb 14, 2026 https://m.facebook.com
-m.facebook.com##.bg-s27.m > .bg-s22.m
-
-! Feb 15, 2026 https://m.facebook.com
-m.facebook.com##.bg-s29.m > .bg-s24.m
-
 ! Feb 18, 2026 https://www.fotmob.com
 www.fotmob.com##.e9as4cy0.css-1hmvktq-SuperliveCSS
 
@@ -555,9 +531,6 @@ www.reddit.com##.search-hero-small
 
 ! Feb 27, 2026 https://www.reddit.com
 www.reddit.com##.my-2xs.py-2xs.px-md.flex-col.flex.nd\:visible
-
-! Mar 2, 2026 https://m.facebook.com
-m.facebook.com##.bg-s31.m > .bg-s3.m
 
 ! Mar 2, 2026 https://www.reddit.com
 www.reddit.com##.bg-neutral-background.border-transparent.border-solid.border-t.-mt-\[1px\].pb-2xs.px-md.relative.prominent-search > .relative
@@ -588,9 +561,6 @@ www.washingtonpost.com##.wpds-c-kSOqLF-ijwAmXJ-css.wpds-c-kSOqLF-ejCoEP-icon-lef
 ! Apr 4, 2026 https://www.nytimes.com
 www.nytimes.com##.interactive-body.css-17ih8de
 
-! Apr 4, 2026 https://m.facebook.com
-m.facebook.com##.bg-s26.m > .bg-s17.m
-
 ! Apr 8, 2026 https://www.fotmob.com
 www.fotmob.com##div.e1m5w55z1.css-1394cz5-CardCSS:nth-of-type(4)
 www.fotmob.com##.eaj2ihl0.css-1hmvktq-SuperliveCSS
@@ -615,9 +585,6 @@ www.fotmob.com##.e175icw80.css-13gapui-LiveOddsCSS
 
 ! May 27, 2026 https://www.prothomalo.com
 www.prothomalo.com##._0U6Mc.S3wNv
-
-! May 28, 2026 https://m.facebook.com
-m.facebook.com##.bg-s25.m
 
 ! May 29, 2026 https://www.ft.com
 www.ft.com##.n-layout__header-before > .js-markets-data.markets-data-wrapper
@@ -690,4 +657,23 @@ www.reddit.com###feed-post-credit-bar-t3_1ucxgvk > .shrink-0.overflow-hidden.rel
 www.fotmob.com##.eaj666s0.css-xfnya-PollWithOddsCSS
 
 ! Jun 23, 2026 https://www.nytimes.com
+
 www.nytimes.com##.e9696a98.bfed6852.a2a89c28
+
+! Jun 24, 2026 https://www.theguardian.com
+www.theguardian.com###bannerandheader section.dcr-1xdhyk6 > .dcr-1un8ko5
+www.theguardian.com##.dcr-j63hn9
+
+! Jun 24, 2026 https://www.reddit.com
+www.reddit.com###feed-post-credit-bar-t3_1udsovb > .shrink-0.overflow-hidden.relative > .\32 xs.gap.items-center.flex > rpl-dialog-trigger
+
+! Jun 25, 2026 https://www.prothomalo.com
+www.prothomalo.com##.RlecB
+
+! Jun 26, 2026 https://www.reddit.com
+||emoji.redditmedia.com/i7wzsqk6cjuf1_t5_5rj68d/popculturechat$image
+www.reddit.com###feed-post-credit-bar-t3_1ufmxhx > .shrink-0.overflow-hidden.relative > .\32 xs.gap.items-center.flex > rpl-dialog-trigger > .ms-xs.w-\[1\.25rem\].h-\[1\.25rem\].cursor-pointer.hover\:bg-neutral-background-hover.bg-transparent.rounded-1.border-none.m-0.p-0.justify-center.items-center.flex
+
+! Jun 26, 2026 https://www.facebook.com
+www.facebook.com##.no-hscroller.hscroller.m
+m.facebook.com##.no-hscroller.hscroller.m
