@@ -1,6 +1,6 @@
 ! Title: SinFalCon's Custom General Filters 
-! Version: 1.0.4
-! Updated: June 26, 2026
+! Version: 1.0.5
+! Updated: July 19, 2026
 ! Expires: 1 day
 ! Homepage: https://github.com/SinFalCon/MyFilterLists
 
@@ -387,7 +387,7 @@ www.wsj.com##.css-1i8hxya-MarketDataStripWrapper.e1anx7cs3
 www.wsj.com##.css-fs8vb5
 www.wsj.com##.ev6fn600.css-14zqvv1-LoginButtonsWrapper-LoginButtonsWrapper-LoginButtonsWrapper
 
-sh.reddit.com,www.reddit.com##shreddit-post:has-text(/\bMusk\b|\bElon\b|Elon Musk|\bDOGE\b|\bTrump\b|Donald Trump|\bMAGA\b|\bGOP\b|\bVance\b|JD Vance|\bRepublicans?\b|\bTesla\b|Fox News|\bCybertruck\b|\bKanye\b|Ethan Klein|\bIsrael\b|\bIsraeli\b|\bICE\b|\bKirk\b|\bIsraelis\b|Charlie Kirk|Karoline Leavitt|Mike Johnson|Kristi Noem|Mike Lee|Alex Jones|Ben Shapiro|Pam Bondi|Stephen Miller|Kash Patel|Nicki Minaj|Bill Maher|Nancy Mace|\bNetanyahu\b|Melania Trump|\bMelania\b|\bIDF\b|\bHegseth\b|\bRFK\b|\bMTG\b|\bTPUSA\b|Turning Point USA|Lindsey Graham|Vivek Ramaswamy|Lamine Yamal|\bYamal\b|Amy Schumer|Kid Rock|Ted Cruz/i):not(.nd\:pb-2xl)
+sh.reddit.com,www.reddit.com##shreddit-post:has-text(/\bMusk\b|\bElon\b|Elon Musk|\bDOGE\b|\bTrump\b|Donald Trump|\bMAGA\b|\bGOP\b|\bVance\b|JD Vance|\bRepublicans?\b|\bTesla\b|Fox News|\bCybertruck\b|\bKanye\b|Ethan Klein|\bIsrael\b|\bIsraeli\b|\bICE\b|\bKirk\b|\bIsraelis\b|Charlie Kirk|Karoline Leavitt|Tulsi Gabbard|Tristan Tate|Mike Johnson|Kristi Noem|Mike Lee|Alex Jones|Ben Shapiro|Laura Loomer|Pam Bondi|Stephen Miller|\YFarage\b|Nigel Farage|Kash Patel|Nicki Minaj|Bill Maher|Nancy Mace|\bNetanyahu\b|Melania Trump|\bMelania\b|\bIDF\b|\bHegseth\b|\bRFK\b|\bMTG\b|\bTPUSA\b|Turning Point USA|Lindsey Graham|Vivek Ramaswamy|Lamine Yamal|\bYamal\b|Amy Schumer|\bAIPAC\b|Kid Rock|Ted Cruz/i):not(.nd\:pb-2xl)
 
 www.reddit.com##shreddit-comment[author="AutoModerator"]
 www.reddit.com##shreddit-comment[author="pccmodbot"]
@@ -399,6 +399,7 @@ www.reddit.com##shreddit-comment[author="trendingtattler"]
 www.reddit.com##shreddit-comment[author="Dad_B0T"]
 www.reddit.com##shreddit-comment[author="post-explainer"]
 www.reddit.com##shreddit-comment[author="WithoutReason1729"]
+www.reddit.com##shreddit-comment[author="Fauxmoi-ModTeam"]
 
 reddit.com##body:style(font-weight:500 !important)
 
@@ -677,3 +678,17 @@ www.reddit.com###feed-post-credit-bar-t3_1ufmxhx > .shrink-0.overflow-hidden.rel
 ! Jun 26, 2026 https://www.facebook.com
 www.facebook.com##.no-hscroller.hscroller.m
 m.facebook.com##.no-hscroller.hscroller.m
+
+! Jul 1, 2026 https://crex.com
+crex.com###seriesSec5 > div
+
+! Jul 2, 2026 https://www.reddit.com
+www.reddit.com###feed-post-credit-bar-t3_1uldg3w > .shrink-0.overflow-hidden.relative > .\32 xs.gap.items-center.flex > rpl-dialog-trigger > .ms-xs.w-\[1\.25rem\].h-\[1\.25rem\].cursor-pointer.hover\:bg-neutral-background-hover.bg-transparent.rounded-1.border-none.m-0.p-0.justify-center.items-center.flex
+www.reddit.com###feed-post-credit-bar-t3_1ul302q > .shrink-0.overflow-hidden.relative > .\32 xs.gap.items-center.flex > rpl-dialog-trigger > .ms-xs.w-\[1\.25rem\].h-\[1\.25rem\].cursor-pointer.hover\:bg-neutral-background-hover.bg-transparent.rounded-1.border-none.m-0.p-0.justify-center.items-center.flex
+www.reddit.com##.ms-xs.w-\[1\.25rem\].h-\[1\.25rem\].cursor-pointer.hover\:bg-neutral-background-hover.bg-transparent.rounded-1.border-none.m-0.p-0.justify-center.items-center.flex
+
+! Jul 10, 2026 https://www.thedailystar.net
+www.thedailystar.net##.justify-center.flex.hide-for-print.mb-10
+
+! Jul 18, 2026 https://sattacademy.com
+sattacademy.com##.bottom-ad-relative
