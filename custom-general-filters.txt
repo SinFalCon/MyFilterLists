@@ -706,7 +706,6 @@ www.reuters.com##.banner-module__container__oROGs
 www.nytimes.com###NYT_ABOVE_MAIN_CONTENT_REGION
 
 ! Jul 30, 2026 https://www.tbsnews.net
-
 www.tbsnews.net##.animate__fadeInBottom.animate__animated.adf_overlay_img.absolute
 
 ! Jul 30, 2026 https://www.banglatribune.com
