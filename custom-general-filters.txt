@@ -701,3 +701,13 @@ sattacademy.com##.bottom-ad-relative
 
 ! Jul 26, 2026 https://www.reuters.com
 www.reuters.com##.banner-module__container__oROGs
+
+! Jul 29, 2026 https://www.nytimes.com
+www.nytimes.com###NYT_ABOVE_MAIN_CONTENT_REGION
+
+! Jul 30, 2026 https://www.tbsnews.net
+
+www.tbsnews.net##.animate__fadeInBottom.animate__animated.adf_overlay_img.absolute
+
+! Jul 30, 2026 https://www.banglatribune.com
+www.banglatribune.com##.overayFeaturedImage
