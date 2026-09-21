@@ -1,6 +1,6 @@
 ! Title: SinFalCon's Custom General Filters 
-! Version: 1.0.6
-! Updated: July 28, 2026
+! Version: 2.0.0
+! Updated: September 21, 2026
 ! Expires: 1 day
 ! Homepage: https://github.com/SinFalCon/MyFilterLists
 
@@ -387,7 +387,7 @@ www.wsj.com##.css-1i8hxya-MarketDataStripWrapper.e1anx7cs3
 www.wsj.com##.css-fs8vb5
 www.wsj.com##.ev6fn600.css-14zqvv1-LoginButtonsWrapper-LoginButtonsWrapper-LoginButtonsWrapper
 
-sh.reddit.com,www.reddit.com##shreddit-post:has-text(/\bMusk\b|\bElon\b|Elon Musk|\bDOGE\b|\bTrump\b|Donald Trump|\bMAGA\b|\bGOP\b|\bVance\b|JD Vance|\bRepublicans?\b|\bTesla\b|Fox News|\bCybertruck\b|\bKanye\b|Ethan Klein|\bIsrael\b|\bIsraeli\b|\bICE\b|\bKirk\b|\bIsraelis\b|Charlie Kirk|Karoline Leavitt|Tulsi Gabbard|Andrew Tate|Tristan Tate|Mike Johnson|Kristi Noem|Mike Lee|Alex Jones|Ben Shapiro|Laura Loomer|Pam Bondi|Stephen Miller|\YFarage\b|Nigel Farage|Kash Patel|Nicki Minaj|Bill Maher|Nancy Mace|\bNetanyahu\b|Melania Trump|\bMelania\b|\bIDF\b|\bHegseth\b|\bRFK\b|\bMTG\b|\bTPUSA\b|Turning Point USA|Lindsey Graham|Vivek Ramaswamy|Lamine Yamal|\bYamal\b|Amy Schumer|\bAIPAC\b|Kid Rock|Ted Cruz/i):not(.nd\:pb-2xl)
+sh.reddit.com,www.reddit.com##shreddit-post:has-text(/\bMusk\b|\bElon\b|Elon Musk|\bDOGE\b|\bTrump\b|Donald Trump|\bMAGA\b|\bGOP\b|\bVance\b|JD Vance|\bRepublicans?\b|\bTesla\b|Fox News|\bCybertruck\b|\bKanye\b|Ethan Klein|\bIsrael\b|\bIsraeli\b|\bICE\b|\bKirk\b|\bIsraelis\b|Charlie Kirk|Karoline Leavitt|Tulsi Gabbard|Andrew Tate|Tristan Tate|Mike Johnson|Kristi Noem|Mike Lee|Alex Jones|Ben Shapiro|Laura Loomer|Pam Bondi|Stephen Miller|\YFarage\b|Nigel Farage|Kash Patel|Sophie Cunningham|Nicki Minaj|Bill Maher|Nancy Mace|\bNetanyahu\b|Melania Trump|\bMelania\b|\bIDF\b|\bHegseth\b|\bRFK\b|\bMTG\b|\bTPUSA\b|Turning Point USA|Lindsey Graham|Vivek Ramaswamy|Lamine Yamal|\bYamal\b|Amy Schumer|\bAIPAC\b|Kid Rock|Ted Cruz/i):not(.nd\:pb-2xl)
 
 www.reddit.com##shreddit-comment[author="AutoModerator"]
 www.reddit.com##shreddit-comment[author="pccmodbot"]
@@ -400,6 +400,8 @@ www.reddit.com##shreddit-comment[author="Dad_B0T"]
 www.reddit.com##shreddit-comment[author="post-explainer"]
 www.reddit.com##shreddit-comment[author="WithoutReason1729"]
 www.reddit.com##shreddit-comment[author="Fauxmoi-ModTeam"]
+www.reddit.com##shreddit-comment[author="beamazed-modapp"]
+www.reddit.com##shreddit-comment[author="BeAmazed-ModBot"]
 
 reddit.com##body:style(font-weight:500 !important)
 
@@ -706,7 +708,31 @@ www.reuters.com##.banner-module__container__oROGs
 www.nytimes.com###NYT_ABOVE_MAIN_CONTENT_REGION
 
 ! Jul 30, 2026 https://www.tbsnews.net
+
 www.tbsnews.net##.animate__fadeInBottom.animate__animated.adf_overlay_img.absolute
 
 ! Jul 30, 2026 https://www.banglatribune.com
 www.banglatribune.com##.overayFeaturedImage
+
+! Jul 31, 2026 https://www.reddit.com
+www.reddit.com##.py-xs.bg-shreddit-content-background.bottom-0.fixed.bg-neutral-background.max-w-\[756px\]
+
+! Aug 17, 2026 https://m.gsmarena.com
+m.gsmarena.com##.align-center.justify-center.flex-column.d-flex
+
+! Sep 8, 2026 https://www.banglatribune.com
+www.banglatribune.com##.gsourcea
+
+! Sep 11, 2026 https://www.ittefaq.com.bd
+www.ittefaq.com.bd##.gsourcea
+
+! Sep 15, 2026 https://www.jugantor.com
+www.jugantor.com##.jugImageOverlayDiv.text-center.w100P.bottom0.positionAbsolute
+
+! Sep 20, 2026 https://bonikbarta.com
+bonikbarta.com##.mt-2.items-center.justify-center.flex.print\:hidden
+bonikbarta.com##div.mx-auto.print\:max-w-\[unset\].max-w-\[45\.5rem\] > .mb-4.items-center.justify-center.flex.print\:hidden
+bonikbarta.com###article-middle2-01
+bonikbarta.com##div.last\:pb-0.mb-4.pb-4.last\:border-b-0.dark\:border-neutral-700.border-gray-200.border-b:nth-of-type(3)
+bonikbarta.com##div.last\:pb-0.mb-4.pb-4.last\:border-b-0.dark\:border-neutral-700.border-gray-200.border-b:nth-of-type(5)
+bonikbarta.com##div.last\:pb-0.mb-4.pb-4.last\:border-b-0.dark\:border-neutral-700.border-gray-200.border-b:nth-of-type(7)
