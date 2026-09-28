@@ -716,6 +716,7 @@ www.banglatribune.com##.overayFeaturedImage
 
 ! Jul 31, 2026 https://www.reddit.com
 www.reddit.com##.py-xs.bg-shreddit-content-background.bottom-0.fixed.bg-neutral-background.max-w-\[756px\]
+www.reddit.com###mosaic-pdp-feed
 
 ! Aug 17, 2026 https://m.gsmarena.com
 m.gsmarena.com##.align-center.justify-center.flex-column.d-flex
