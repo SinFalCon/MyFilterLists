@@ -737,3 +737,12 @@ bonikbarta.com###article-middle2-01
 bonikbarta.com##div.last\:pb-0.mb-4.pb-4.last\:border-b-0.dark\:border-neutral-700.border-gray-200.border-b:nth-of-type(3)
 bonikbarta.com##div.last\:pb-0.mb-4.pb-4.last\:border-b-0.dark\:border-neutral-700.border-gray-200.border-b:nth-of-type(5)
 bonikbarta.com##div.last\:pb-0.mb-4.pb-4.last\:border-b-0.dark\:border-neutral-700.border-gray-200.border-b:nth-of-type(7)
+
+! Sep 22, 2026 https://www.thedailystar.net
+www.thedailystar.net##div.justify-center.flex.hide-for-print.mb-5:nth-of-type(8)
+
+! Sep 24, 2026 https://bangla.bdnews24.com
+bangla.bdnews24.com##.st-animated.st-inline-share-buttons.st-left.sharethis-inline-share-buttons
+
+! Sep 24, 2026 https://crex.com
+crex.com###seriesSec0 > div > div
