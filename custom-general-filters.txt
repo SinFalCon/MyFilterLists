@@ -749,3 +749,6 @@ crex.com###seriesSec0 > div > div
 
 ! Oct 29, 2026 https://www.ittefaq.com.bd
 www.ittefaq.com.bd##.additional_info_container_inner > .mb10
+
+! Nov 1, 2026 https://www.reuters.com
+www.reuters.com##.spacing-container-module__container__pUI7w.quote-ticker-lseg-bar-module__container__vgmbX
