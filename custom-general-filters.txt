@@ -752,3 +752,12 @@ www.ittefaq.com.bd##.additional_info_container_inner > .mb10
 
 ! Nov 1, 2026 https://www.reuters.com
 www.reuters.com##.spacing-container-module__container__pUI7w.quote-ticker-lseg-bar-module__container__vgmbX
+
+! Nov 5, 2026 https://www.prothomalo.com
+www.prothomalo.com##.Na8i-
+
+! Nov 7, 2026 https://www.banglatribune.com
+www.banglatribune.com##.additional_info_container_inner > .mb10
+
+! Nov 8, 2026 https://www.prothomalo.com
+www.prothomalo.com##.-KtbL
