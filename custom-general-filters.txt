@@ -1,6 +1,6 @@
 ! Title: SinFalCon's Custom General Filters 
-! Version: 2.0.0
-! Updated: September 21, 2026
+! Version: 2.0.1
+! Updated: November 13, 2026
 ! Expires: 1 day
 ! Homepage: https://github.com/SinFalCon/MyFilterLists
 
@@ -761,3 +761,7 @@ www.banglatribune.com##.additional_info_container_inner > .mb10
 
 ! Nov 8, 2026 https://www.prothomalo.com
 www.prothomalo.com##.-KtbL
+
+! Nov 13, 2026 https://www.reddit.com
+www.reddit.com##configured-xpromo-banner
+
